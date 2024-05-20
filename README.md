@@ -19,18 +19,15 @@ Müzik: https://www.udio.com/
 
 Geliştiriciler:
 
-Ahmet Mert Kalaman 
+- Ahmet Mert Kalaman 
 
-Fatih Eren Kalaman
+- Fatih Eren Kalaman
 
-Zümrüt Genç 
+- Zümrüt Genç 
 
-Nurdan Şahinoğlu 
-- Özellik 1
-- Özellik 2
-- Özellik 3
+- Nurdan Şahinoğlu 
 
-### 
+
 ![331873337-53c6fc99-0f7c-4d67-a1ae-9510d0b6b7ab](https://github.com/astrolil0/Bogazici_Gamejam_2024/assets/113148482/41a466ea-3ea1-469e-95b4-6dfd0fc2a2ec)
 ![331873343-9225f6be-d7e2-4567-931b-7d8f4eda2aae](https://github.com/astrolil0/Bogazici_Gamejam_2024/assets/113148482/bd1ab1a4-9588-44aa-8c67-f45289569cb1)
 ![331873347-8ab28076-8d58-4505-83ec-fc6bbf67e7f3](https://github.com/astrolil0/Bogazici_Gamejam_2024/assets/113148482/38010aa7-1180-4369-8d47-bcc1936dc251)
