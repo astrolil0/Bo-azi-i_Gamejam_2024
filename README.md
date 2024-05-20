@@ -8,6 +8,7 @@ Uzak bir diyarın büyülü ormanında, krallığın koruyucusu Prenses Lily, do
 Oyunun itch.io Sayfası: https://zmrt.itch.io/whisper-of-paperworlds
 
 
+
 Assets:
 
 Oyunda ki bütün çizimler ve assetler takıma aittir, 48 saat içerisinde yapılmıştır
