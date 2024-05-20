@@ -16,7 +16,7 @@ Oyunda ki bütün çizimler ve assetler takıma aittir, 48 saat içerisinde yap�
 Müzikler için yapay zeka kullanılmıştır: https://www.udio.com/
 
 
-##Geliştiriciler:
+## Geliştiriciler:
 
 - Ahmet Mert Kalaman 
 
