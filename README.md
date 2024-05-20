@@ -26,6 +26,9 @@ Müzikler için yapay zeka kullanılmıştır: https://www.udio.com/
 
 
 
+
+
+
 ## Oyunun itch.io Sayfası: https://zmrt.itch.io/whisper-of-paperworlds  
 ## https://youtu.be/Nf_b3cI5x3s?si=9awKRSC9La2snA1h
 
