@@ -13,9 +13,8 @@ Assets:
 
 Oyunda ki bütün çizimler ve assetler takıma aittir, 48 saat içerisinde yapılmıştır
 
-Müzikler için yapay zeka kullanılmıştır:
+Müzikler için yapay zeka kullanılmıştır: https://www.udio.com/
 
-Müzik: https://www.udio.com/
 
 Geliştiriciler:
 
