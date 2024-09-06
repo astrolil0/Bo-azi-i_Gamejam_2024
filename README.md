@@ -10,7 +10,6 @@ Uzak bir diyarın büyülü ormanında, krallığın koruyucusu Prenses Lily, do
 Assets:
 
 Oyunda ki bütün çizimler ve assetler takıma aittir, 48 saat içerisinde yapılmıştır
-
 Müzikler için yapay zeka kullanılmıştır: https://www.udio.com/
 
 
